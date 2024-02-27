@@ -1,0 +1,12 @@
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\bin\Debug\MyApp.Data.dll.config
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\bin\Debug\MyApp.Data.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\bin\Debug\MyApp.Data.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\bin\Debug\EntityFramework.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\bin\Debug\EntityFramework.xml
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\obj\Debug\MyApp.Data.csproj.AssemblyReference.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\obj\Debug\MyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\obj\Debug\MyApp.Data.csproj.Up2Date
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\obj\Debug\MyApp.Data.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Data\obj\Debug\MyApp.Data.pdb

@@ -1,0 +1,15 @@
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\MyApp.Business.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\MyApp.Business.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\obj\Debug\MyApp.Business.csproj.AssemblyReference.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\obj\Debug\MyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\obj\Debug\MyApp.Business.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\obj\Debug\MyApp.Business.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\MyApp.Business.dll.config
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\MyApp.Data.dll
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\MyApp.Data.pdb
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\MyApp.Data.dll.config
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cenkh\OneDrive\Desktop\MyApp\MyApp.Business\obj\Debug\MyApp.Bu.20E4FE88.Up2Date
